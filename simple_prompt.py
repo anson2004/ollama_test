@@ -3,7 +3,7 @@ import ollama
 messages=[
   {
     'role': 'user',
-    'content': 'Why is the sky blue?',
+    'content': 'Hello world',
   },
 ]
 # Streaming chat completion with a model
